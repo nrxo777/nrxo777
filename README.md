@@ -2,4 +2,4 @@
  
 - 📫 Reach me https://nrxoii.vercel.app/
 <br />
-https://profile-counter.glitch.me/nrxo777/count.svg
+![Visitor Count](https://profile-counter.glitch.me/nrxo777/count.svg)
