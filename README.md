@@ -16,7 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-<!--   <img width="35" /> -->
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <br /> <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="35" />
@@ -29,6 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
 </div>
 
+###
+```
+const mernStack = {
+  framework: "React + Vite",
+  language: "JavaScript",
+  learning: ["TypeScript", "Back-End"],
+  styling: ["CSS", "Tailwind CSS"],
+  fact: "one piece is real"
+};
+```
 ###
 
 <div align="center">
