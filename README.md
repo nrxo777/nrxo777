@@ -35,8 +35,8 @@
 ###
 ```
 const mernStack = {
-  framework: "React + Vite",
-  language: "JavaScript",
+  framework: "Vite + React",
+  language: ["JavaScript", "Python"],
   learning: ["TypeScript", "Back-End"],
   styling: ["CSS", "Tailwind CSS"],
   fact: "one piece is real"
