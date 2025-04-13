@@ -27,6 +27,9 @@
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="35" />
   <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <img width="35" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <br />
