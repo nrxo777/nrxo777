@@ -21,7 +21,17 @@
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <br />
   <br />
-<!--   <img width="35" /> -->
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+</div>
+
+###
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
   <img width="35" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
@@ -35,7 +45,6 @@
   <br />
   <br />
 <!--   <img width="35" /> -->
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
 </div>
 
 ###
@@ -43,9 +52,11 @@
 ###
 ```
 const mernStack = {
-  framework: "Vite + React",
   language: ["JavaScript", "Python"],
-  learning: ["TypeScript", "Back-End"],
+  backend: ["Node JS", "Express JS"],
+  database: "Mongo DB"
+  framework: "Vite + React",
+  learning: ["TypeScript", "Next JS"],
   styling: ["CSS", "Tailwind CSS"],
   fact: "one piece is real"
 };
